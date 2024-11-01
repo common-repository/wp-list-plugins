@@ -1,0 +1,10 @@
+.plugInListWrapper {clear:both; width:95%; margin:0 auto;}
+.plugInListLine {clear:both;}
+.plugInListHeadline {font-weight:bold;}
+.plugInListHeadDescription {text-align:center;}
+.plugInListNumber, .plugInListName, .plugInListVersion, plugInListDescription {float:left; padding:0 10px;}
+.plugInListNumber {width:15px;}
+.plugInListName {width:150px;}
+.plugInListVersion {width:80px;}
+.plugInListDescription {margin-left:305px; margin-bottom:15px;}
+.plugInIsInactive {font-style:italic; text-decoration:line-through;}
